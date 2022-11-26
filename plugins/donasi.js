@@ -6,7 +6,7 @@ let handler =  m => m.reply(`
 
 ╭─「 Donasi • Non Pulsa 」
 │ • https://saweria.co/BochilGaming
-│ • Gopay [085713964963]
+│ • Gopay [6283169566533]
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
